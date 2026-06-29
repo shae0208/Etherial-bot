@@ -21,7 +21,6 @@ async def on_ready():
     
     print(f'{bot.user} is now online.')
 
-
 async def load_extensions():
     cogs_dir = os.path.join(BASE_DIR, 'cogs')
     
