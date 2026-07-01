@@ -45,6 +45,51 @@
         },
         "speed_priority": 3
     },
+    "areal": {
+        "name": "Areal",
+        "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/areal.png?raw=true",
+        "element": "Dark",
+        "role": "Support/Healer",
+        "rarity": "SSR",
+        "base_speed": 119,
+        "lattice": "5/5/5",
+        "build": {
+            "shells": [
+                "Moon Bunny",
+                "Amber"
+            ],
+            "sets": [
+                "Bloodbath / Swiftrush / Evolguard"
+            ],
+            "mainstats": [
+                "CRIT / HP / CRIT"
+            ],
+            "substats": [
+                "Speed",
+                "HP",
+                "Crit rate",
+                "Resilience"
+            ]
+        },
+        "counters": [
+            "TBD"
+        ],
+        "teams": {
+            "Team 1": [
+                "TBD"
+            ],
+            "Team 2": [
+                "TBD"
+            ],
+            "Team 3": [
+                "TBD"
+            ]
+        },
+        "draft": {
+            "ban_priority": 3
+        },
+        "speed_priority": 3
+    },
     "asal": {
         "name": "Asal",
         "image": "https://github.com/shae0208/Etherial/blob/main/assets/images/asal.png?raw=true",
@@ -1859,7 +1904,7 @@
                 "Swiftrush / Bulwark / Swiftsmite"
             ],
             "mainstats": [
-                "HP / CRIT / HP"
+                "HP/CRIT / CRIT / HP"
             ],
             "substats": [
                 "Crit rate",
